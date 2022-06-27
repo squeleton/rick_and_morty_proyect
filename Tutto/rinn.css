@@ -1,6 +1,44 @@
+
+
 body{
-    background-color: black;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: white;
+    background-image: url(./qqqq.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    color: rgb(219, 219, 219);
+   text-align: center;
+
+   
+
     
-};
+}
+
+div{
+   
+    border-color: greenyellow;
+}
+
+.header{
+    
+    background-color:rgb(86, 143, 0);
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-top: none;
+ }
+
+.seee{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: center;
+    border-style: solid;
+    border-color: greenyellow;
+}
+
+.bethhh{
+    
+    border-style: solid;
+    border-color: greenyellow;
+}
